@@ -1,3 +1,2 @@
-# LearningPy
-Testing repository for first time
-This is the first markdown file
+# My_Python_Examples
+I'm starting to post more work on here.  Hope to contribute to someone else's learning as well.
